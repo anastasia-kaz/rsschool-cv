@@ -75,9 +75,6 @@ I have experience writing automated tests for the API in postman using JS. there
 
 ---
 
-
-
-
 ## Education:
 
 * Belarusian State Academy of Communications   
@@ -88,9 +85,6 @@ Specialty: postal communication technician
 
 ---
 
-
-
-
 ## Courses:
 
 * V.Ksenzov's author's course on software testing   
@@ -100,9 +94,6 @@ Specialty: quality assurance engineer
 Specialty: automation quality assurance engineer
 
 ---
-
-
-
 
 ## Languages:
 
