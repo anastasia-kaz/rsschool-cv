@@ -12,8 +12,6 @@
 **LinkedIn** [https://www.linkedin.com/in/anastasia-kaz](https://www.linkedin.com/in/anastasia-kaz)  
 **GitHub** [https://github.com/anastasia-kaz](https://github.com/anastasia-kaz)
 
-
-
 ---
 
 ## About Myself:
