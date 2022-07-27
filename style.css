@@ -615,6 +615,11 @@ a:visited {
     background-size: 17px;
     padding-left: 24px;
 }
+.download {
+    background: url("assets/img/download_icon_143099.svg") no-repeat 0 0;
+    background-size: 17px;
+    padding-left: 24px;
+}
 
 .aside_box_education_list li {
     list-style: none;
@@ -627,12 +632,26 @@ a:visited {
     list-style: none;
     margin-bottom: 10px;
 }
+.work{
+    margin-bottom: 3px;
+    font-weight: bold;
+}
+.box_content{
+    line-height: 25px;
+}
+.work_item{
+    list-style-type: circle;
+    margin-left: 10px;
+}
 
 .content {
     display: flex;
     flex-direction: row;
     margin-right: 0;
-padding-right: 0;
+    padding-right: 0;
+}
+.skill_item{
+    font-weight: bold;
 }
 
 .main_content {
@@ -643,7 +662,7 @@ padding-right: 0;
 
 .main_box {
     box-sizing: border-box;
-    padding: 40px;
+    padding: 25px;
 
 }
 
